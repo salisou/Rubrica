@@ -1,3 +1,5 @@
+![](https://github.com/salisou/Rubrica/blob/main/assets/image.png)
+
 from pathlib import Path
 
 requirements = """ttkbootstrap
